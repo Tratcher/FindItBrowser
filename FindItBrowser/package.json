@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "test": "karma start ClientApp/test/karma.conf.js",
-    "tslint-test":"tslint --project ./tsconfig.json"
+    "tslint-test": "tslint --project ./tsconfig.json"
   },
   "dependencies": {
     "@angular/animations": "4.2.5",
@@ -21,9 +21,10 @@
     "@ngtools/webpack": "1.5.0",
     "@types/webpack-env": "1.13.0",
     "angular2-template-loader": "0.6.2",
-    "aspnet-prerendering": "^3.0.1",
-    "aspnet-webpack": "^2.0.1",
+    "aspnet-prerendering": "3.0.1",
+    "aspnet-webpack": "2.0.1",
     "awesome-typescript-loader": "3.2.1",
+    "azure-mobile-apps-client": "2.0.1",
     "bootstrap": "3.3.7",
     "css": "2.2.1",
     "css-loader": "0.28.4",
