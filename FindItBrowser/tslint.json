@@ -3,10 +3,10 @@
     "extends": [
         "tslint:recommended"
     ],
-    "jsRules": {
-    },
+    "jsRules": {},
     "rules": {
-        "quotemark": [true, "single"]
+        "quotemark": [true, "single"],
+        "object-literal-sort-keys": false
     },
     "rulesDirectory": []
 }
